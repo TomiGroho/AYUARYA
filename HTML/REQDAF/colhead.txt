@@ -1,0 +1,18 @@
+ <tr class=xl24 height=15 style='height:11.25pt'>
+  <td height=15 class=xl25 style='height:11.25pt'>No.</td>
+  <td class=xl25>Tanggal</td>
+  <td class=xl25>No.</td>
+  <td class=xl25>Jatuh</td>
+  <td class=xl25>Request By</td>
+  <td class=xl25>Approved By</td>
+  <td class=xl25>Status</td>
+ </tr>
+ <tr class=xl24 height=16 style='height:12.0pt'>
+  <td height=16 class=xl26 style='height:12.0pt'>&nbsp;</td>
+  <td class=xl26>Req#</td>
+  <td class=xl26>Req#</td>
+  <td class=xl26>Tempo</td>
+  <td class=xl26>&nbsp;</td>
+  <td class=xl26>&nbsp;</td>
+  <td class=xl26>&nbsp;</td>
+ </tr>

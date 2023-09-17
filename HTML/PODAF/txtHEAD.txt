@@ -1,0 +1,11 @@
+PT. Inti Dufree Promosindo  	 	
+Jl. Raya Kuta 48 	
+Denpasar-Bali 80361 	
+
+Daftar Penerimaan Barang (Receiving) 	
+
+Periode : @PERIODE@
+
+No. 	Tanggal 	No. 	Vendor 	Vendor
+  	Rcv# 	Rcv# 	Ref# 	 
+

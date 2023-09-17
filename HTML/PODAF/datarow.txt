@@ -1,0 +1,7 @@
+ <tr class=xl24 height=15 style='height:11.25pt'>
+  <td height=15 class=xl24 style='height:11.25pt' x:str="'@CNTR@">@CNTR@</td>
+  <td class=xl24 x:str="@REFDT@">@REFDT@</td>
+  <td class=xl24>@REFNO@</td>
+  <td class=xl24>@VDREF@</td>
+  <td class=xl24 colspan=2 style='mso-ignore:colspan'>@VD@</td>
+ </tr>

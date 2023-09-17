@@ -1,0 +1,4 @@
+
+Dibuat Oleh, 	Mengetahui, 		Menyetujui,
+(@BY@) 		(@ACK@) 		(@APR@)
+@BYTTL@ 	@ACKTTL@ 		@APRTTL@

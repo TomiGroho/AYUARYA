@@ -1,0 +1,4 @@
+ <tr class=xl24 height=16 style='height:12.0pt'>
+  <td colspan=5 height=16 class=xl27 style='height:12.0pt'>Lokasi :@WH@</td>
+  <td class=xl24></td>
+ </tr>

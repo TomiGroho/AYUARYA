@@ -1,0 +1,7 @@
+ <col width=64 style='width:48pt'>
+ <col width=122 style='mso-width-source:userset;mso-width-alt:4461;width:92pt'>
+ <col width=127 style='mso-width-source:userset;mso-width-alt:4644;width:95pt'>
+ <col width=129 style='mso-width-source:userset;mso-width-alt:4717;width:97pt'>
+ <col width=144 style='mso-width-source:userset;mso-width-alt:5266;width:108pt'>
+ <col width=128 style='mso-width-source:userset;mso-width-alt:4681;width:96pt'>
+ <col width=92 style='mso-width-source:userset;mso-width-alt:3364;width:69pt'>

@@ -1,0 +1,12 @@
+PT. Inti Dufree Promosindo  	 	 	 	
+Jl. Raya Kuta 48 	
+Denpasar-Bali 80361 	
+
+Daftar Permintaan Barang (Requisition) 	
+
+Periode : @PERIODE@ 	
+
+No. 	Tanggal 	No. 	Jatuh 	Request By 	Approved By 	Status
+  	Req# 	Req# 	Tempo  
+
+ 		

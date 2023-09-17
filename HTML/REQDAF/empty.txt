@@ -1,0 +1,3 @@
+ <tr class=xl24 height=15 style='height:11.25pt'>
+  <td height=15 colspan=7 class=xl24 style='height:11.25pt;mso-ignore:colspan'></td>
+ </tr>

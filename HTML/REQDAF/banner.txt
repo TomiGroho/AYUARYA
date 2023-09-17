@@ -1,0 +1,18 @@
+ <tr class=xl24 height=15 style='height:11.25pt'>
+  <td height=15 class=xl24 colspan=3 width=313 style='height:11.25pt;
+  mso-ignore:colspan;width:235pt'>PT. Inti Dufree Promosindo</td>
+  <td class=xl24 width=129 style='width:97pt'></td>
+  <td class=xl24 width=144 style='width:108pt'></td>
+  <td class=xl24 width=128 style='width:96pt'></td>
+  <td class=xl24 width=92 style='width:69pt'></td>
+ </tr>
+ <tr class=xl24 height=15 style='height:11.25pt'>
+  <td height=15 class=xl24 colspan=2 style='height:11.25pt;mso-ignore:colspan'>Jl.
+  Raya Kuta 48</td>
+  <td colspan=5 class=xl24 style='mso-ignore:colspan'></td>
+ </tr>
+ <tr class=xl24 height=15 style='height:11.25pt'>
+  <td height=15 class=xl24 colspan=2 style='height:11.25pt;mso-ignore:colspan'>Denpasar-Bali
+  80361</td>
+  <td colspan=5 class=xl24 style='mso-ignore:colspan'></td>
+ </tr>

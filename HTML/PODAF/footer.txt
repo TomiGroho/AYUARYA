@@ -1,0 +1,40 @@
+ <tr class=xl24 height=15 style='height:11.25pt'>
+  <td height=15 colspan=6 class=xl24 style='height:11.25pt;mso-ignore:colspan'></td>
+ </tr>
+ <tr class=xl24 height=16 style='height:12.0pt'>
+  <td height=16 class=xl26 style='height:12.0pt'>&nbsp;</td>
+  <td class=xl26>&nbsp;</td>
+  <td class=xl26>&nbsp;</td>
+  <td class=xl26>&nbsp;</td>
+  <td class=xl26>&nbsp;</td>
+  <td class=xl24></td>
+ </tr>
+ <tr class=xl24 height=16 style='height:12.0pt'>
+  <td height=16 colspan=6 class=xl24 style='height:12.0pt;mso-ignore:colspan'></td>
+ </tr>
+ <tr class=xl24 height=15 style='height:11.25pt'>
+  <td height=15 class=xl24 colspan=2 style='height:11.25pt;mso-ignore:colspan'>Dibuat
+  Oleh,</td>
+  <td class=xl24>Mengetahui,</td>
+  <td class=xl24></td>
+  <td class=xl24>Menyetujui,</td>
+  <td class=xl24></td>
+ </tr>
+ <tr class=xl24 height=15 style='height:11.25pt'>
+  <td height=15 colspan=6 class=xl24 style='height:11.25pt;mso-ignore:colspan'></td>
+ </tr>
+ <tr class=xl24 height=15 style='height:11.25pt'>
+  <td height=15 class=xl24 style='height:11.25pt'>(@BY@)</td>
+  <td class=xl24></td>
+  <td class=xl24>(@ACK@)</td>
+  <td class=xl24></td>
+  <td class=xl24>(@APR@)</td>
+  <td class=xl24></td>
+ </tr>
+ <tr class=xl24 height=15 style='height:11.25pt'>
+  <td height=15 class=xl24 colspan=2 style='height:11.25pt;mso-ignore:colspan'>@BYTTL@</td>
+  <td class=xl24>@ACKTTL@</td>
+  <td class=xl24></td>
+  <td class=xl24>@APRTTL@</td>
+  <td class=xl24></td>
+ </tr>

@@ -1,0 +1,15 @@
+ <![if supportMisalignedColumns]>
+ <tr height=0 style='display:none'>
+  <td width=42 style='width:32pt'></td>
+  <td width=113 style='width:85pt'></td>
+  <td width=94 style='width:71pt'></td>
+  <td width=96 style='width:72pt'></td>
+  <td width=220 style='width:165pt'></td>
+  <td width=64 style='width:48pt'></td>
+ </tr>
+ <![endif]>
+</table>
+
+</body>
+
+</html>

@@ -1,0 +1,16 @@
+<tr class=xl24 height=15 style='height:11.25pt'>
+  <td height=15 class=xl25 style='height:11.25pt'>No.</td>
+  <td class=xl25>Tanggal</td>
+  <td class=xl25>No.</td>
+  <td class=xl25>Vendor</td>
+  <td class=xl25>Vendor</td>
+  <td class=xl24></td>
+ </tr>
+ <tr class=xl24 height=16 style='height:12.0pt'>
+  <td height=16 class=xl26 style='height:12.0pt'>&nbsp;</td>
+  <td class=xl26>Rcv#</td>
+  <td class=xl26>Rcv#</td>
+  <td class=xl26>Ref#</td>
+  <td class=xl26>&nbsp;</td>
+  <td class=xl24></td>
+ </tr>

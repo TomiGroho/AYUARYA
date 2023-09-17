@@ -1,0 +1,16 @@
+ <tr class=xl24 height=15 style='height:11.25pt'>
+  <td height=15 colspan=7 class=xl24 style='height:11.25pt;mso-ignore:colspan'></td>
+ </tr>
+ <tr class=xl24 height=15 style='height:11.25pt'>
+  <td height=15 class=xl24 colspan=3 style='height:11.25pt;mso-ignore:colspan'>Daftar
+  Permintaan Barang (Requisition)</td>
+  <td colspan=4 class=xl24 style='mso-ignore:colspan'></td>
+ </tr>
+ <tr class=xl24 height=15 style='height:11.25pt'>
+  <td height=15 colspan=7 class=xl24 style='height:11.25pt;mso-ignore:colspan'></td>
+ </tr>
+ <tr class=xl24 height=15 style='height:11.25pt'>
+  <td height=15 class=xl24 colspan=3 style='height:11.25pt;mso-ignore:colspan'>Periode
+  : @PERIODE@</td>
+  <td colspan=4 class=xl24 style='mso-ignore:colspan'></td>
+ </tr>
